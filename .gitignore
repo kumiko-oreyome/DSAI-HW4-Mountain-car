@@ -1,0 +1,6 @@
+/__pycache__
+/evaluate
+/model
+/history*
+note.txt
+config.py
